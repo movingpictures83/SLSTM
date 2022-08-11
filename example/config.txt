@@ -1,0 +1,2 @@
+Prefix plugins/SLSTM/example/
+Plugin SLSTM inputfile parameters.txt outputfile output
